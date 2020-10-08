@@ -1,0 +1,5 @@
+# Pharo development folder
+/pharo
+
+# If your repository is public:
+/deployment
